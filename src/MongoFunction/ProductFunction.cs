@@ -27,7 +27,7 @@ namespace MongoFunction
 
             // Hard-coded Connection String & Database name, as they are not the point of focus for this exercise
             var connectionString = "mongodb+srv://muruga:kirbms2006@testcluster-qiinu.mongodb.net/test?retryWrites=true&w=majority";
-            var databaseName = "GroceryStore";
+            var databaseName = "IOUCommrate";
 
             var repository = new ProductsRepository(
                 connectionString,

@@ -20,29 +20,32 @@
             <RowDefinition Height="Auto" />
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
+        <Label Content="US Zip Code" Grid.Row="1" FontSize="15" FontStyle="Italic" FontWeight="Bold"/>
         <TextBox
             Name="NameTextbox"
-            Grid.Row="1"
-            Margin="10"
-            Controls:TextBoxHelper.Watermark="Name"
-            Text="Potato" />
-        <TextBox
-            Name="DescriptionTextbox"
             Grid.Row="2"
             Margin="10"
-            Controls:TextBoxHelper.Watermark="Description"
-            Text="Organically grown potatoes." />
-        <Controls:NumericUpDown
-            Name="PriceNumeric"
-            Grid.Row="3"
-            Margin="10"
-            Controls:NumericInputMode="Decimal"
-            Controls:TextBoxHelper.Watermark="Price"
-            Value="15.99" />
-        <Button
-            Name="SendButton"
+            Controls:TextBoxHelper.Watermark="USZipCode"
+            Text="85321"/>
+        <Label Content="UtilityName" Grid.Row="3" FontSize="15" FontStyle="Italic" FontWeight="Bold"/>
+        <TextBox
+            Name="DescriptionTextbox"
             Grid.Row="4"
             Margin="10"
+            Controls:TextBoxHelper.Watermark="Utility_Name"
+            Text="Ajo Improvement Co" />
+        <Label Content="CommercialRate" Grid.Row="5" FontSize="15" FontStyle="Italic" FontWeight="Bold"/>
+        <Controls:NumericUpDown
+            Name="PriceNumeric"
+            Grid.Row="5"
+            Margin="10,42,10,80"
+            Controls:NumericInputMode="Decimal"
+            Controls:TextBoxHelper.Watermark="CommRate"
+            Value="0.0862" />
+        <Button
+            Name="SendButton"
+            Grid.Row="5"
+            Margin="2,105,2,2"
             Content="Send"
             Click="SendButton_OnClick"
             Style="{StaticResource AccentedSquareButtonStyle}" />

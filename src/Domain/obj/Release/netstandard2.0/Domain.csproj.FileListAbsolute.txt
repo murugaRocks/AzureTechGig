@@ -1,0 +1,9 @@
+C:\Users\com\Documents\GitHub\AzureMongDB\src\Domain\bin\Release\netstandard2.0\Domain.deps.json
+C:\Users\com\Documents\GitHub\AzureMongDB\src\Domain\bin\Release\netstandard2.0\Domain.dll
+C:\Users\com\Documents\GitHub\AzureMongDB\src\Domain\bin\Release\netstandard2.0\Domain.pdb
+C:\Users\com\Documents\GitHub\AzureMongDB\src\Domain\obj\Release\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\com\Documents\GitHub\AzureMongDB\src\Domain\obj\Release\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\com\Documents\GitHub\AzureMongDB\src\Domain\obj\Release\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\com\Documents\GitHub\AzureMongDB\src\Domain\obj\Release\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\com\Documents\GitHub\AzureMongDB\src\Domain\obj\Release\netstandard2.0\Domain.dll
+C:\Users\com\Documents\GitHub\AzureMongDB\src\Domain\obj\Release\netstandard2.0\Domain.pdb

@@ -23,13 +23,13 @@ namespace DataSender.Desktop
         {
             var product = new Product
             {
-                Name = NameTextbox.Text,
-                Description = DescriptionTextbox.Text,
-                Price = PriceNumeric.Value.Value
+                USZipCode = NameTextbox.Text,
+                Utility_Name = DescriptionTextbox.Text,
+                CommRate = PriceNumeric.Value.Value
             };
 
             Debug.WriteLine(product);
-
+            
             await using (var producerClient = new EventHubProducerClient(ConnectionString, EventHubName))
             {
                 using EventDataBatch eventBatch = await producerClient.CreateBatchAsync();
