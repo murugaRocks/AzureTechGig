@@ -5255,11 +5255,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Mongo.DataAccess\\Mongo.DataAccess.csproj",
+      "projectUniqueName": "E:\\Azuretechgig\\AzureTechGig\\src\\Mongo.DataAccess\\Mongo.DataAccess.csproj",
       "projectName": "Mongo.DataAccess",
-      "projectPath": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Mongo.DataAccess\\Mongo.DataAccess.csproj",
+      "projectPath": "E:\\Azuretechgig\\AzureTechGig\\src\\Mongo.DataAccess\\Mongo.DataAccess.csproj",
       "packagesPath": "C:\\Users\\com\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Mongo.DataAccess\\obj\\",
+      "outputPath": "E:\\Azuretechgig\\AzureTechGig\\src\\Mongo.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\com\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5275,8 +5275,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Domain\\Domain.csproj"
+            "E:\\Azuretechgig\\AzureTechGig\\src\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\Azuretechgig\\AzureTechGig\\src\\Domain\\Domain.csproj"
             }
           }
         }

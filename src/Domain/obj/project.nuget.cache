@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mZRitH7ne6et5u2uZnHZ166xBA2lcbQMty5vuiXEhNZuBrBTl8joF5dkJHMac5g9ZkJTi1BRebwd/F/Uv+5Bow==",
+  "dgSpecHash": "oSD+/SDz4/pzEbmaSVCrG7ZsgOJZGib1RkimVqiXY44xoi5OX5pjT8h67D92Tifmol3BAnL48ceT7kkmRm779Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Domain\\Domain.csproj",
+  "projectFilePath": "E:\\Azuretechgig\\AzureTechGig\\src\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\com\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
     "C:\\Users\\com\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

@@ -5236,11 +5236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Domain\\Domain.csproj",
+      "projectUniqueName": "E:\\Azuretechgig\\AzureTechGig\\src\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Domain\\Domain.csproj",
+      "projectPath": "E:\\Azuretechgig\\AzureTechGig\\src\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\com\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Domain\\obj\\",
+      "outputPath": "E:\\Azuretechgig\\AzureTechGig\\src\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\com\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y8B9jRaCt/kZ/1HPlUIho8X2fb1LhbUpBPlyJZRC9hgxLqEHuggML8uHpzBZbPL1MnUtq290BOyAM3WZUyW3tg==",
+  "dgSpecHash": "DArFLRl8DHacz4T6DGx5r55nAx2XoYsAn4s2l26wxBgaHzt/kPugVupUozqsNTLV3HZPajIsBeuuD19SgNQIAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Mongo.DataAccess\\Mongo.DataAccess.csproj",
+  "projectFilePath": "E:\\Azuretechgig\\AzureTechGig\\src\\Mongo.DataAccess\\Mongo.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\com\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
     "C:\\Users\\com\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

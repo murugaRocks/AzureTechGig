@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VixVu1nSQt7N2SmfRB7KMBWgt4kIlR8E5Kqw4b3t/TkbXJXCwwQsWwT8JeUNKC48UMqM24MzLM8OiCCxeu/sZQ==",
+  "dgSpecHash": "47o1ov2qtIPusWWy9o+ZATVi3yPbdvUeJSflMoscnLVJsdsy1j1I2hBpLZS0xT0X0zV90IAFidWQpuq/1fuZrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\DataSender.Desktop\\DataSender.Desktop.csproj",
+  "projectFilePath": "E:\\Azuretechgig\\AzureTechGig\\src\\DataSender.Desktop\\DataSender.Desktop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\com\\.nuget\\packages\\azure.core\\1.0.1\\azure.core.1.0.1.nupkg.sha512",
     "C:\\Users\\com\\.nuget\\packages\\azure.messaging.eventhubs\\5.0.1\\azure.messaging.eventhubs.5.0.1.nupkg.sha512",

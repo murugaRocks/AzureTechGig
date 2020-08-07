@@ -10,3 +10,15 @@ C:\Users\com\Documents\GitHub\AzureMongDB\src\Mongo.DataAccess\obj\Release\netst
 C:\Users\com\Documents\GitHub\AzureMongDB\src\Mongo.DataAccess\obj\Release\netstandard2.0\Mongo.DataAccess.csproj.CopyComplete
 C:\Users\com\Documents\GitHub\AzureMongDB\src\Mongo.DataAccess\obj\Release\netstandard2.0\Mongo.DataAccess.dll
 C:\Users\com\Documents\GitHub\AzureMongDB\src\Mongo.DataAccess\obj\Release\netstandard2.0\Mongo.DataAccess.pdb
+E:\Azuretechgig\AzureTechGig\src\Mongo.DataAccess\bin\Release\netstandard2.0\Mongo.DataAccess.deps.json
+E:\Azuretechgig\AzureTechGig\src\Mongo.DataAccess\bin\Release\netstandard2.0\Mongo.DataAccess.dll
+E:\Azuretechgig\AzureTechGig\src\Mongo.DataAccess\bin\Release\netstandard2.0\Mongo.DataAccess.pdb
+E:\Azuretechgig\AzureTechGig\src\Mongo.DataAccess\bin\Release\netstandard2.0\Domain.dll
+E:\Azuretechgig\AzureTechGig\src\Mongo.DataAccess\bin\Release\netstandard2.0\Domain.pdb
+E:\Azuretechgig\AzureTechGig\src\Mongo.DataAccess\obj\Release\netstandard2.0\Mongo.DataAccess.csprojAssemblyReference.cache
+E:\Azuretechgig\AzureTechGig\src\Mongo.DataAccess\obj\Release\netstandard2.0\Mongo.DataAccess.csproj.CoreCompileInputs.cache
+E:\Azuretechgig\AzureTechGig\src\Mongo.DataAccess\obj\Release\netstandard2.0\Mongo.DataAccess.AssemblyInfoInputs.cache
+E:\Azuretechgig\AzureTechGig\src\Mongo.DataAccess\obj\Release\netstandard2.0\Mongo.DataAccess.AssemblyInfo.cs
+E:\Azuretechgig\AzureTechGig\src\Mongo.DataAccess\obj\Release\netstandard2.0\Mongo.DataAccess.csproj.CopyComplete
+E:\Azuretechgig\AzureTechGig\src\Mongo.DataAccess\obj\Release\netstandard2.0\Mongo.DataAccess.dll
+E:\Azuretechgig\AzureTechGig\src\Mongo.DataAccess\obj\Release\netstandard2.0\Mongo.DataAccess.pdb

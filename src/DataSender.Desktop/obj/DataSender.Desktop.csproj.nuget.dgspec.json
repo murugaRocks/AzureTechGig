@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\DataSender.Desktop\\DataSender.Desktop.csproj": {}
+    "E:\\Azuretechgig\\AzureTechGig\\src\\DataSender.Desktop\\DataSender.Desktop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\DataSender.Desktop\\DataSender.Desktop.csproj": {
+    "E:\\Azuretechgig\\AzureTechGig\\src\\DataSender.Desktop\\DataSender.Desktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\DataSender.Desktop\\DataSender.Desktop.csproj",
+        "projectUniqueName": "E:\\Azuretechgig\\AzureTechGig\\src\\DataSender.Desktop\\DataSender.Desktop.csproj",
         "projectName": "DataSender.Desktop",
-        "projectPath": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\DataSender.Desktop\\DataSender.Desktop.csproj",
+        "projectPath": "E:\\Azuretechgig\\AzureTechGig\\src\\DataSender.Desktop\\DataSender.Desktop.csproj",
         "packagesPath": "C:\\Users\\com\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\DataSender.Desktop\\obj\\",
+        "outputPath": "E:\\Azuretechgig\\AzureTechGig\\src\\DataSender.Desktop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\com\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Domain\\Domain.csproj"
+              "E:\\Azuretechgig\\AzureTechGig\\src\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Azuretechgig\\AzureTechGig\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Domain\\Domain.csproj": {
+    "E:\\Azuretechgig\\AzureTechGig\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\Azuretechgig\\AzureTechGig\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Domain\\Domain.csproj",
+        "projectPath": "E:\\Azuretechgig\\AzureTechGig\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\com\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\com\\Documents\\GitHub\\AzureMongDB\\src\\Domain\\obj\\",
+        "outputPath": "E:\\Azuretechgig\\AzureTechGig\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\com\\AppData\\Roaming\\NuGet\\NuGet.Config",

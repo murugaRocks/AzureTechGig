@@ -24,9 +24,9 @@ namespace DataSender.Desktop
         {
             var product = new Product
             {
-                USZipCode = NameTextbox.Text,
-                Utility_Name = DescriptionTextbox.Text,
-                CommRate = PriceNumeric.Value.Value
+                Typeofprotein = NameTextbox.Text,
+                Value = DescriptionTextbox.Value.Value,
+                Age = PriceNumeric.Value.Value
             };
 
             Debug.WriteLine(product);

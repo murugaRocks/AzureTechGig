@@ -18,6 +18,13 @@ namespace MongoFunction
         {
             var requestBody = await new StreamReader(request.Body).ReadToEndAsync();
             var products = JsonConvert.DeserializeObject<Product[]>(requestBody).ToArray();
+            foreach (Product p in products)
+            {
+                if (p.Age > 60) { p.result = "high risk"; }
+                else if (p.Age < 30 && p.Value > 70) { p.result = "high risk"; }
+                else if (p.Age < 30 && p.Value < 70) { p.result = "low risk"; }
+                else { p.result = "Medium risk"; }
+            }
             var result = await Helper.WriteToMongo(products);
             var message = result ? "Products added successfully" : "No products were added";
             return new OkObjectResult(message);
