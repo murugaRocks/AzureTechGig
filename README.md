@@ -8,32 +8,41 @@
 
 ---
 
-# Azure Functions - Persist in MongoDB
+# Steps for execute the code
 
-1. Create a MongoDB instance, preferably in cloud.
+1. Spin up a azure event hub instance in your azure account. All default setting. 
 
-2. Update the connection string in the code
+2. Create a MongoDB/cosmosdb instance
+
+3. Update the event hub connection string in Mainwindow.xaml.cs
+
+	```csharp
+       private const string ConnectionString = "<event hub connection string>";
+        private const string EventHubName = "<event hub name>";
+	```
+4. Update the connection string in the Helper.cs
 
     ```csharp
     // Hard-coded Connection String & Database name, as they are not the point of focus for this exercise
     var connectionString = "<Replace with your connection string>";
+	var databaseName = "<Database Name>";
     ```
 
-3. Fire up (in debug mode)
+5. Publish the "mongofunction" as azure function. 
 
-4. Post a sample product to
-    <http://localhost:7071/api/AddProduct>
+6. Spin up a azure stream Analytics instance in your azure account. Input is event hub and output will the Azure function. 
+
+6. Run the Datasender.desktop as windows application
+
+7. Check the data in your mongodb
 
     ```json
     {
-        "name": "Potato",
-        "description": "Organically grown, freshly cultivated potatoes!",
-        "price": "15.99"
+        "Typeofprotein":"HormonalProtein",
+		"Value":"9",
+		"Age":{"$numberDouble":"62"},
+		"result":"high risk"
     }
     ```
-
-    > Replace `7071` with your respective port number
-
-5. Verify in MongoDB instance if your product is added
 
 ---
